@@ -6,19 +6,10 @@
     "@fontsource/el-messiri": "^5.1.0",
     "@fontsource/inter": "^5.1.0",
     "@fontsource/nunito": "^5.1.0",
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.7.9",
-    "bootstrap-icons": "^1.11.3",
-    "dotenv": "^16.4.7",
-    "googleapis": "^144.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^7.0.1",
     "react-scripts": "5.0.1",
-    "react-typed": "^2.0.12",
-    "web-vitals": "^2.1.4"
+    "react-typed": "^2.0.12"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -43,8 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }

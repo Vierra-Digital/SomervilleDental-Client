@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John M.",
+    "review": "Dr Shick is the best! He’s hands down the most efficient dentist I’ve ever had and he does a really good job with cleanings. He’s also no BS; doesn’t try to talk you into unnecessary crazy (expensive) treatments. He’s a total straight shooter.",
+    "picture": "./../images/JohnM.png"
+  },
+  {
+    "id": 2,
+    "name": "Scott M.",
+    "review": "I’ve been seeing Dr. Shick for probably around 10 years now and he’s seen me through half a dozen fillings, two crowns, and a cracked tooth. All of them turned out excellent and I’ve had no problems with any of his work.",
+    "picture": "./../images/ScottM.png"
+  },
+  {
+    "id": 3,
+    "name": "Dianna M.",
+    "review": "Dr. Paul Shick at Somerville Dental Associates is my dentist! Dr. Shick is very knowledgeable and an up to date dentist. I personally find him to be very concerned for his patient’s comfort when he is doing a procedure and he and his office staff are very caring about their patients.",
+    "picture": "./../images/DiannaM.png"
+  },
+  {
+    "id": 4,
+    "name": "Mack Q.",
+    "review": "Dr. Shick doesn’t waste your time. I’ve always been pleased with the thorough, yet efficient, cleanings he provides. He gave me great advice on how to maintain my teeth while wearing braces and helped me buy a great brush. He NEVER suggested that I get fillings or other dental work when it wasn’t necessary.",
+    "picture": "./../images/DiannaM.png"
+  },
+  {
+    "id": 5,
+    "name": "Dave M.",
+    "review": "I’m not a big fan of going to the dentist but going to Dr Shick is easy and painless. I recently went for a cleaning and root planing and it couldn’t have gone better. Friendly receptionist and a professional staff made me feel at ease the whole time. If you live in the Somerville area I would definitely recommend going here!",
+    "picture": "./../images/DiannaM.png"
+  },
+  {
+    "id": 6,
+    "name": "Brittany C.",
+    "review": "Dr. Shick does work quickly like other reviewers mention. I never minded this because I’ve never had a cavity (*knock on wood*) and just go to get a standard cleaning. So for me, the less time at the dentist, the better. Plus, he’s cute, which eases the pain of being at the dentist.",
+    "picture": "./../images/DiannaM.png"
+  }
+]

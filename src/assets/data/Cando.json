@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Exams & Dental Hygienes",
+    "details": "Exams & cleanings are the best way to avoid costly treatments in the future. Regular exams & cleanings prevent problems such as periodontal disease & tooth decay. Cleanings are recommended every six months to avoid oral health issues and ensure that your gums stay healthy because oral hygiene can effect your general well-being.",
+    "picture": "./../images/dental-floss.svg"
+  },
+  {
+    "id": 2,
+    "title": "Cosmetics & Restorative",
+    "details": "Problems occur despite being proactive with oral health. Our goal is to return your smile to its healthy state with restorative or cosmetic treatments including tooth-colored fillings, dental crowns, or fixed bridges. Unfortunately, most of us weren’t born with a perfect smile or teeth; cosmetic dental solutions are often the answer. Cosmetic dentistry helps you feel good about the way you look and obtain a smile you’ll love.",
+    "picture": "./../images/restoration.svg"
+  },
+  {
+    "id": 3,
+    "title": "Dentures",
+    "details": "Losing teeth can be a devastating experience for anyone which is why our natural looking prosthodontics are designed to restore your smile. Dr. Shick provides fully customized dentures that are designed to look natural & fit your needs. Get prosthodontics for a creation of partial or full sets of dentures and filling gaps created by one or more missing teeth. Prosthodontics can also fulfill an interest in dental implants.",
+    "picture": "./../images/denture.svg"
+  },
+  {
+    "id": 4,
+    "title": "Implants",
+    "details": "A dental implant is a prosthetic that's used to replace a missing tooth. The implant itself is a metal post made of the same type of metal that's used to create artificial joints. The post is implanted into the jaw bone where it acts as an artificial root, securing a dental crown designed to look and feel just like a natural tooth. Implants are far more secure than dentures or bridges, & they help prevent bone resorption following tooth loss that can lead to additional tooth loss in the future.",
+    "picture": "./../images/implant.svg"
+  },
+  {
+    "id": 5,
+    "title": "Emergency Dentistry",
+    "details": "Dental emergencies are frightening and often painful. Prompt treatment is usually required to alleviate pain & to ensure the best possible outcome. Sometimes, teeth become fractured by trauma, grinding, or biting on hard objects. In other cases, fillings or crowns can be damaged or fall out completely. If there is severe pain, it's important to contact our office immediately. The pain caused by dental emergencies almost always gets worse if left untreated.",
+    "picture": "./../images/emergency.svg"
+  },
+  {
+    "id": 6,
+    "title": "Teeth Whitening",
+    "details": "Teeth whitening is an effective and affordable way to brighten a discolored smile. Our office offers different types such as one-hour in-office whitening which includes custom-made take home trays to whiten at home or custom-made take home trays to whiten in the comfort of your own home. Our office frequently runs specials on these products which would be displayed on our website or other social media links.",
+    "picture": "./../images/tooth-hygiene.svg"
+  }
+]

@@ -6,11 +6,11 @@ import { useRef } from 'react'
 import { fadeInUp, staggerContainer } from '@/lib/animations'
 
 const officeHours = [
-  { day: 'Monday', hours: '8:00 AM - 5:00 PM' },
-  { day: 'Tuesday', hours: '8:00 AM - 5:00 PM' },
-  { day: 'Wednesday', hours: '8:00 AM - 5:00 PM' },
-  { day: 'Thursday', hours: '8:00 AM - 5:00 PM' },
-  { day: 'Friday', hours: '8:00 AM - 5:00 PM' },
+  { day: 'Monday', hours: '7:00 AM - 5:00 PM' },
+  { day: 'Tuesday', hours: '7:00 AM - 5:00 PM' },
+  { day: 'Wednesday', hours: '12:00 PM - 7:00 PM' },
+  { day: 'Thursday', hours: '7:00 AM - 2:00 PM' },
+  { day: 'Friday', hours: '7:00 AM - 12:00 PM' },
   { day: 'Saturday', hours: 'Closed' },
   { day: 'Sunday', hours: 'Closed' },
 ]

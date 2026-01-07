@@ -1,0 +1,83 @@
+# llms.txt for AI Language Model Crawlers
+# This file helps AI systems understand our website content and services
+
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: ChatGPT-User
+User-agent: anthropic-ai
+User-agent: Claude-Web
+User-agent: CCBot
+User-agent: PerplexityBot
+User-agent: Applebot-Extended
+Allow: /
+
+# Site Information
+# Business: Somerville Dental Associates
+# Type: Dental Practice / Dental Clinic
+# Location: 3 Ashland Street, Medford, MA 02155, United States
+# Phone: +1-781-874-1630
+# Email: somervilledental@verizon.net
+# Website: https://somervilledentalassociates.com
+
+# Office Hours
+# Monday: 7:00 AM - 5:00 PM
+# Tuesday: 7:00 AM - 5:00 PM
+# Wednesday: 12:00 PM - 7:00 PM
+# Thursday: 7:00 AM - 2:00 PM
+# Friday: 7:00 AM - 12:00 PM
+# Saturday: Closed
+# Sunday: Closed
+
+# Services Offered
+# - Dental Exams & Cleanings
+# - Cosmetic & Restorative Dentistry (Veneers, Crowns, Fillings)
+# - Dental Implants
+# - Emergency Dentistry
+# - Dentures
+# - Teeth Whitening
+# - Most Insurances Accepted
+
+# Key Pages and Sections
+Allow: /
+Allow: /#about
+Allow: /#services
+Allow: /#testimonials
+Allow: /#contact
+Allow: /sitemap.xml
+
+# API Endpoints (for appointment booking)
+Allow: /api/send-appointment-email
+
+# Disallow sensitive areas
+Disallow: /admin/
+Disallow: /api/*/admin
+
+# Sitemap
+Sitemap: https://somervilledentalassociates.com/sitemap.xml
+
+# Business Description
+# Somerville Dental Associates is a full-service dental practice located in Medford, Massachusetts, 
+# serving patients in Somerville, Medford, Cambridge, Arlington, and surrounding areas. 
+# We provide comprehensive general and cosmetic dentistry services with a focus on patient comfort 
+# and quality care. Our experienced dental staff strives to make every visit as comfortable as 
+# possible while delivering excellent dental health outcomes.
+
+# Service Areas
+# - Somerville, MA
+# - Medford, MA
+# - Cambridge, MA
+# - Arlington, MA
+# - Malden, MA
+# - Greater Boston Area, Massachusetts
+
+# Contact Methods
+# - Phone: +1-781-874-1630
+# - Email: somervilledental@verizon.net
+# - Online Appointment Booking: Available through website
+
+# Crawl Settings
+Crawl-delay: 1
+
+# Last Updated
+# Updated: 2025-01-XX
+
